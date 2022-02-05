@@ -1,4 +1,4 @@
-# Shops API
+# Matrix API
 
 ## Tech Stack
 
