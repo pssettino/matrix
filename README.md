@@ -5,7 +5,7 @@
 * Kotlin
 * JDK 8
 * Spring Boot
-* Mockk
+* JUnit + Mockk
 
 ## Run/Debug locally
 You can start up the local environment running this script `bootRun`.
